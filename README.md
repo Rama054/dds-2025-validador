@@ -6,4 +6,4 @@ Para ejecutar los tests:
 mvn test
 ```
 
-Este comando compilará el proyecto y ejecutará todos los tests definidos en el directorio `src/test/java`.
+Se compilará el proyecto y se ejecutarán todos los tests definidos en el directorio `src/test/java`.
