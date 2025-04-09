@@ -14,8 +14,4 @@ public class Materia {
     public List<Materia> getCorrelativas() {
         return correlativas;
     }
-
-    public String getNombre() {
-        return nombre;
-    }
 }

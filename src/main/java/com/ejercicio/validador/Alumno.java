@@ -13,18 +13,6 @@ public class Alumno {
         this.materiasAprobadas = materiasAprobadas;
     }
 
-    public void aprobar(Materia materia) {
-        materiasAprobadas.add(materia);
-    }
-
-    public String getNombre() {
-        return nombre;
-    }
-
-    public String getLegajo() {
-        return legajo;
-    }
-
     public List<Materia> getMateriasAprobadas() {
         return materiasAprobadas;
     }
